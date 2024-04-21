@@ -1,0 +1,53 @@
+h1 {
+  color:rgb(1, 8, 17);
+  font-size: 70px;
+}
+h2 {
+    color: rgb(12, 1, 1);
+    font-size: 80px;
+    text-align: center;
+}
+h5 {
+  color: rgb(235, 243, 243);
+  font-size: 40px;
+  text-align: center;
+}
+a{
+  padding-left: 1em;
+  outline: none;
+  text-decoration: none;
+}
+p {
+  font-size: 30px;
+}
+
+.navegador {
+    text-align: right;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.grid{
+    display: grid;
+    background-image: url("mant.jpeg");
+    width:1500px;
+    height: 600px;
+    columns: 30% 70%;
+   
+}
+.frase{
+      text-align: left;
+     font-size: 40px;
+     color: rgb(29, 140, 236);
+     text-align: right;
+}
+
+.contenedor{
+    font-size: 70px;
+
+    text-align: center;
+}
+footer{
+  text-align: center;
+}
